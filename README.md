@@ -1,0 +1,5 @@
+- 👋 Hi, I’m H0xudini
+- 👀 I’m interested in full stack web development with weird ✨ JS ✨! and reversing.
+- 🌱 I’m currently learning mongoDB
+- 💞️ I’m looking to collaborate on a web application to manage clubs that manage hackathons and CTFs
+- 📫 How to reach me: I'm unreachable, nah just kidding :D, this is my portfolio, you can find everything there, https://oussamax64.netlify.app/
