@@ -9,7 +9,7 @@ My name is Oussama Messaoudi, an Algerian 20 year-old computer science student a
 * 🌍  I'm based in Algeria
 * 🖥️  See my portfolio at [oussamax64](http://oussamax64.netlify.app/)
 * ✉️  You can contact me at [o\_messaoudi@estin.dz](mailto:o_messaoudi@estin.dz)
-* 🧠  I'm learning neo4j dbms
+* 🧠  I'm learning `undefined`
 * 🤝  I'm open to collaborating on web projects
 * ⚡  I do chess in my free time
 
